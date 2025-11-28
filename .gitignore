@@ -37,3 +37,7 @@ htmlcov/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
+models/
+*.pkl
+*.joblib
+*.sav
