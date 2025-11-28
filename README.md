@@ -36,14 +36,16 @@ Evaluated Logistic Regression, Random Forest, XGBoost, Naive Bayes, SVM, KNN, De
 Final selected model: Random Forest Classifier
 
 **Model Comparison**
-Model	Accuracy	Precision	Recall	F1	ROC-AUC
-Logistic Regression	0.6120	0.6329	0.4086	0.4966	0.6445
-Random Forest	0.6068	0.5946	0.5047	0.5459	0.6388
-XGBoost	0.6008	0.5844	0.5111	0.5453	0.6336
-Naive Bayes	0.5980	0.6007	0.4227	0.4962	0.6214
-SVM	0.5854	0.7245	0.1853	0.2951	0.6522
-KNN	0.5456	0.5169	0.4560	0.4846	0.5488
-Decision Tree	0.5452	0.5145	0.5149	0.5147	0.5434
+| Model               | Accuracy   | Precision  | Recall     | F1         | ROC-AUC    |
+| ------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Logistic Regression | 0.6120     | 0.6329     | 0.4086     | 0.4966     | 0.6445     |
+| **Random Forest**   | **0.6068** | **0.5946** | **0.5047** | **0.5459** | **0.6388** |
+| XGBoost             | 0.6008     | 0.5844     | 0.5111     | 0.5453     | 0.6336     |
+| Naive Bayes         | 0.5980     | 0.6007     | 0.4227     | 0.4962     | 0.6214     |
+| SVM                 | 0.5854     | 0.7245     | 0.1853     | 0.2951     | 0.6522     |
+| KNN                 | 0.5456     | 0.5169     | 0.4560     | 0.4846     | 0.5488     |
+| Decision Tree       | 0.5452     | 0.5145     | 0.5149     | 0.5147     | 0.5434     |
+
 
 **Why Random Forest Was Selected??**
 
@@ -150,4 +152,5 @@ Scikit-learn, XGBoost
 Streamlit, YData Profiling
 SQL Server
 Isolation Forest (Anomaly Detection)
+
 
