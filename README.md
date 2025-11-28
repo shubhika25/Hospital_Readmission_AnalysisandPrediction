@@ -143,7 +143,7 @@ These require targeted discharge and follow-up protocols.
 
 # Architecture Overview
 
-<img width="992" height="602" alt="image" src="https://github.com/user-attachments/assets/e18d5348-9fee-46f5-a836-4914f9690f13" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e18d5348-9fee-46f5-a836-4914f9690f13" />
 
 # Tech Stack
 
