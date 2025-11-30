@@ -1,5 +1,5 @@
 
-# 0Hospital Readmission Analysis and Prediction
+# Hospital Readmission Analysis and Prediction
 
 <img width="1498" height="771" alt="image" src="https://github.com/user-attachments/assets/883d40fe-ec41-4984-b255-f9ab114c9df8" />
 
